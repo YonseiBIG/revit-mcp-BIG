@@ -3,7 +3,7 @@
 > Forked from [mcp-servers-for-revit/revit-mcp](https://github.com/mcp-servers-for-revit/revit-mcp)
 > Extended by [YonseiBIG](https://github.com/YonseiBIG) with NADIA tools for BIM element type management
 
-English | [简体中文](README_zh.md)
+English | [Simplified Chinese](README_zh.md)
 
 ## What's Added (YonseiBIG)
 
